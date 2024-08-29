@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+    color: red;
+}
+ul {
+    list-style: none;
+    font-size: 40px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color:coral;
+}
